@@ -37,4 +37,7 @@ section.banner p {
 section.banner button {
     background-color: #FF6464;
     color: white;
+    border: none;
+    border-radius: 4px;
+    padding: 4px 8px 4px 8px;
 }
