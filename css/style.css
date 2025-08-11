@@ -117,9 +117,13 @@ fim
 
 footer{
     text-align: center;
+    padding: 15px 0 15px 0;
 }
 footer nav a{
     color: #142850;
     font-size: 3rem;
+}
+footer nav{
+    margin: 2rem 0 2rem 0;
 }
 
